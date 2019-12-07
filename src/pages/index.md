@@ -71,7 +71,7 @@ secondSection:
     title: Our Approach
   ourModel:
     image: /img/home-our-vision.jpg
-    title: Our Models
+    title: Our Model
     description:
       - subTitle: Our Model
         text: >-
