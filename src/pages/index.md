@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Samagra Governance
-description: Samagra Governance
+description: Samagra Governance test
 media:
   - mediaItem: Haryana govt to start 4th batch of CMGGA programme
 baseBanner:
