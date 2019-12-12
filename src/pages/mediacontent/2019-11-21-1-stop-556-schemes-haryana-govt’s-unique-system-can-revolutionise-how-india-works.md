@@ -2,7 +2,7 @@
 templateKey: media-post
 title: >-
   1 Stop, 556 Schemes: Haryana Govt’s Unique System Can Revolutionise How India
-  Works
+  Works.
 mediaHouse: The Better India
 projectId: SARAL
 date: 2019-02-11T18:30:00.000Z
