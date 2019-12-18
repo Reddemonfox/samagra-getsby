@@ -30,6 +30,9 @@ formsElements:
     options:
       - text: Ashoka University
       - text: Birla Institute of Technology and Science
+      - text: College of Business Studies
+      - text: Columbia University
+      - text: Delhi College of Engineering
     otherOptionAvailable:
       activateOn: Other
       label: Other Institute Name
