@@ -26,5 +26,17 @@ formsElements:
     required: true
     type: text
     validation: VALID_TEXT
+  - label: Undergraduate Institute
+    options:
+      - text: Ashoka University
+      - text: Birla Institute of Technology and Science
+    otherOptionAvailable:
+      activateOn: Other
+      label: Other Institute Name
+      placeholder: Select Institute
+    placeholder: Select Institute
+    required: true
+    type: select
+    validation: VALID_OPTION
 ---
 
