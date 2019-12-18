@@ -16,5 +16,10 @@ formsElements:
     required: true
     type: text
     validation: VALID_TEXT
+  - label: Email
+    placeholder: Enter your email
+    required: true
+    type: text
+    validation: VALID_TEXT
 ---
 
