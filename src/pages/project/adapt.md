@@ -45,7 +45,7 @@ approach:
       disseminated to farmers.
 readMore:
   - text: A Stakeholder Approach to Waste Management
-  - text: Encountering Heroes within the System
+  - text: A systemic approach to reforming education
   - text: Finding a Home in the Organisation
 impact:
   - count: 40+
