@@ -45,8 +45,8 @@ approach:
       disseminated to farmers.
 readMore:
   - text: A Stakeholder Approach to Waste Management
-  - text: A Stakeholder Approach to Waste Management
-  - text: A Stakeholder Approach to Waste Management
+  - text: Encountering Heroes within the System
+  - text: Encountering Heroes within the System
 impact:
   - count: 40+
     label: Scheme Monthly Progress Reports digitised
