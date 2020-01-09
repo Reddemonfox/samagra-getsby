@@ -43,6 +43,10 @@ approach:
       campaigns and extension workers, pest and weather advisories, information
       on seed treatment and soil health, irrigation and insurance is
       disseminated to farmers.
+readMore:
+  - text: A Stakeholder Approach to Waste Management
+  - text: A Stakeholder Approach to Waste Management
+  - text: A Stakeholder Approach to Waste Management
 impact:
   - count: 40+
     label: Scheme Monthly Progress Reports digitised
