@@ -46,7 +46,7 @@ approach:
 readMore:
   - text: A Stakeholder Approach to Waste Management
   - text: Encountering Heroes within the System
-  - text: Encountering Heroes within the System
+  - text: Finding a Home in the Organisation
 impact:
   - count: 40+
     label: Scheme Monthly Progress Reports digitised
